@@ -1,4 +1,4 @@
-## [cli-dictionary](https://github.com/guojing0/cli-dictionary) - Look up words in your terminal
+## [terminal-dict](https://github.com/guojing0/terminal-dict) - Look up words in your terminal
 
 #### You do not have to open a web browser to look up words. Now you can do it in your terminal!
 
@@ -24,7 +24,7 @@ to-do
 
 ## Website
 
-[clidict.guoj.org](http://clidict.guoj.org/) (in process)
+[dict.guoj.org](http://dict.guoj.org/) (in process)
 
 ## Contributors
 
