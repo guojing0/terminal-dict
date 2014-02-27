@@ -1,6 +1,6 @@
 ## [cli-dictionary](https://github.com/guojing0/cli-dictionary) - Look up words in your terminal
 
-#### Now you do not have to open a web browser to look up words. You can do it in your terminal!
+#### You do not have to open a web browser to look up words. Now you can do it in your terminal!
 
 ## Dependencies
 
