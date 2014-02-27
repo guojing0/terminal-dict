@@ -1,8 +1,8 @@
-## cli-dictionary
+# cli-dictionary
 
 ### [cli-dictionary](https://github.com/guojing0/cli-dictionary) - Look up words in your terminal
 
-### Dependencies
+## Dependencies
 
 [Beautiful Soup (latest version)](http://www.crummy.com/software/BeautifulSoup/) is better.
 
@@ -10,26 +10,26 @@ Python 2.7
 
 Internet, of course.
 
-### Run it
+## Run it
 
 to-do
 
-### Usage
+## Usage
 
 to-do
 
-### Examples
+## Examples
 
 to-do
 
-### Website
+## Website
 
 [clidict.guoj.org](http://clidict.guoj.org/)
 
-### Contributors
+## Contributors
 
 * [Jing Guo](http://guoj.org/)
 
-### License
+## License
 
 MIT. Copyright (c) [Jing Guo](http://guoj.org/)
