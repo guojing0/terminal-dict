@@ -1,6 +1,4 @@
-# cli-dictionary
-
-### [cli-dictionary](https://github.com/guojing0/cli-dictionary) - Look up words in your terminal
+# [cli-dictionary](https://github.com/guojing0/cli-dictionary) - Look up words in your terminal
 
 ## Dependencies
 
