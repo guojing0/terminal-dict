@@ -10,17 +10,24 @@ Python 2.7
 
 Internet, of course.
 
-## Run it
+## Installation
 
-to-do
+```
+$ git clone git@github.com:guojing0/terminal-dict.git
+$ cd terminal-dict
+$ sudo python setup.py install
+```
 
 ## Usage
 
-to-do
+```
+>>> from terminaldict import run
+>>> run()
+Press Ctrl + C to quit
 
-## Examples
-
-to-do
+> love
+: a feeling of strong or constant affection for a person
+```
 
 ## Website
 
@@ -29,6 +36,7 @@ to-do
 ## Contributors
 
 * [Jing Guo](http://guoj.org/)
+* Contribute and it is yours!
 
 ## License
 
