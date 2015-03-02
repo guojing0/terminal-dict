@@ -1,10 +1,10 @@
 ## [terminal-dict](https://github.com/guojing0/terminal-dict) - Look up words in your terminal
 
-#### You do not have to open a web browser to look up words. Now you can do it in your terminal!
+#### Look up words in your terminal with phonetic symbols and Chinese translations.
 
 ## Dependencies
 
-[Beautiful Soup (latest version)](http://www.crummy.com/software/BeautifulSoup/) is better.
+[Beautiful Soup (latest version)](http://www.crummy.com/software/BeautifulSoup/) is preferred.
 
 Python 2.7
 
@@ -21,12 +21,48 @@ $ sudo python setup.py install
 ## Usage
 
 ```
->>> from terminaldict import run
->>> run()
-Press Ctrl + C to quit
+yourname:terminal-dict alias$ python terminaldict.py
+Press Ctrl + C to quit.
 
 > love
-: a feeling of strong or constant affection for a person
+
+英
+                                    [lʌv]
+
+
+美
+                                    [lʌv]
+
+
+
+n. 恋爱；亲爱的；酷爱；喜爱的事物；爱情，爱意；疼爱；热爱；爱人，所爱之物
+v. 爱，热爱；爱戴；赞美，称赞；喜爱；喜好；喜欢；爱慕
+n. （英）洛夫（人名）
+
+```
+
+or
+
+```
+>>> from terminaldict import run
+>>> run()
+Press Ctrl + C to quit.
+
+> love
+
+英
+                                    [lʌv]
+
+
+美
+                                    [lʌv]
+
+
+
+n. 恋爱；亲爱的；酷爱；喜爱的事物；爱情，爱意；疼爱；热爱；爱人，所爱之物
+v. 爱，热爱；爱戴；赞美，称赞；喜爱；喜好；喜欢；爱慕
+n. （英）洛夫（人名）
+
 ```
 
 ## Website
