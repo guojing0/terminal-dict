@@ -7,7 +7,9 @@ def look_up(word):
     url = 'http://dict.youdao.com/search?q='
     text = urlopen(url+word).read()
     soup = bs(text)
-    return soup.find('div', {'class': 'trans-container'}).find('ul').get_text()
+    ph = soup.find('div', {'class': 'baav'}).get_text()
+    mean = soup.find('div', {'class': 'trans-container'}).find('ul').get_text()
+    print ph, mean
 
 def run(prompt='> '):
     print 'Press Ctrl + C to quit.\n'
