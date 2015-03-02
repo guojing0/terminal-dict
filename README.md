@@ -1,6 +1,6 @@
 ## [terminal-dict](https://github.com/guojing0/terminal-dict) - Look up words in your terminal
 
-#### Look up words in your terminal with phonetic symbols and Chinese translations.
+> Look up words in your terminal with phonetic symbols and Chinese translations.
 
 ## Dependencies
 
