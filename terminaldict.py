@@ -23,6 +23,7 @@ def run(prompt='> ', opt=True):
             if val is not None: print val
     except (KeyboardInterrupt, EOFError, AttributeError):
         if opt == True:
+            print 'History:'
             for i in word_list:
                 print i
 
